@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  item = item.concat(item)
+  cart = item.concat(item)
 }
 
 function viewCart() {
