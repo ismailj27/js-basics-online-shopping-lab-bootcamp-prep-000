@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  Object item;
+  Object item = 
   cart = cart.push(item)
 }
 
