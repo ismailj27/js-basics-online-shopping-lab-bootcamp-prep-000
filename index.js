@@ -13,7 +13,7 @@ function addToCart(item) {
   item = {};
   item = { itemName: name_of_the_item, itemPrice: price_of_the_item };
   
-  item[itemName] = value
+  item[itemName] = name_of_the_item
 }
 
 function viewCart() {
