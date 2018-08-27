@@ -9,9 +9,9 @@ function setCart(c) {
   return cart;
 }
 
-function addToCart(item) {
-  item = {};
-  cart = cart.push(item)
+function addToCart(thing) {
+  thing = {};
+  cart = cart.push(thing)
 }
 
 function viewCart() {
